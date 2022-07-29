@@ -1,4 +1,4 @@
-# Siber-Güvenlik-Eğitimleri-2022 
+# Siber Güvenlik Eğitimleri 2022 
 
 PwnLab ekibi olarak 3 gün boyunca sizlere detaylı ve uygulamalı olarak siber güvenlik eğitimleri verdik.
 
