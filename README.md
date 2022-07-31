@@ -4,7 +4,15 @@ PwnLab ekibi olarak 3 gün boyunca sizlere detaylı ve uygulamalı olarak siber 
 
 Bu repo sizlerin eğitimde kullanılan materyallere erişmeniz amacıyla kurulmuştur. 
 
+Windows Zararlı Yazılım Analizi / M. Akıl Gündoğan
+Slayt Dosyası: asd
+Video: yok
 
-Eğitim Adı - Eğitmen AdI
-Slayt dosyası
-Video:
+
+Bug Bounty Sektörü Ve Metadolojisi / Ekin Şiar Bayer
+Slayt Dosyası asd
+Video asd
+
+Burp Suite nedir? Nasıl Kullanılır? / Hüseyin Can Taşdemir
+Slayt dosyasi asd
+Video asd
