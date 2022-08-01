@@ -5,7 +5,7 @@ PwnLab ekibi olarak 3 gün boyunca sizlere detaylı ve uygulamalı olarak siber 
 Bu repo sizlerin eğitimde kullanılan materyallere erişmeniz amacıyla kurulmuştur. 
 
 Windows Zararlı Yazılım Analizi / M. Akıl Gündoğan
-Slayt Dosyası: asd
+Slayt Dosyası: https://github.com/PwnLabMe-Project/Siber-Guvenlik-Egitimleri-2022/blob/678150b4a06203fb4ed61e7349150093b4a4912f/Sunumlar/Temel%20Windows%20Zararl%C4%B1%20Yaz%C4%B1l%C4%B1m%20Analizi.pptx
 Video: yok
 
 
@@ -16,3 +16,27 @@ Video asd
 Burp Suite nedir? Nasıl Kullanılır? / Hüseyin Can Taşdemir
 Slayt dosyasi asd
 Video asd
+
+Security Of Developpers / Faruk Ulutaş
+Slayt dosyasi asd
+Video asd
+
+Web Socket Zaafiyetleri / Kaan Bıçaklar
+Slayt dosyasi asd
+Video asd
+
+Siber Tehdit İstihbaratı / Yusuf Can Çakır - Furkan Öztürk
+Slayt dosyasi asd
+Videi asd
+
+Anti Analiz Teknikleri / Kaan Kozan
+Slayt dosyasu asd
+Video asd
+
+Golang For Hackers - Basic Tool Write / Resul Bozburun
+Slayt dosyasi
+Video
+
+Smart Contract Saldırıları Ve Önleme Yöntemleri / Deniz Baş
+Slayt dosyasi
+Video
