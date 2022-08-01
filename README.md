@@ -2,7 +2,7 @@
 
 PwnLab ekibi olarak 3 gün boyunca sizlere detaylı ve uygulamalı olarak siber güvenlik eğitimleri verdik.
 
-Bu repo sizlerin eğitimde kullanılan materyallere erişmeniz amacıyla kurulmuştur. 
+Bu repo sizlerin eğitimde kullanılan materyallere ve eğitim kayıtlarına erişmeniz amacıyla kurulmuştur. 
 
 -----
 
