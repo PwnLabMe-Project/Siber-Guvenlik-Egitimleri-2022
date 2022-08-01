@@ -1,6 +1,6 @@
 # Siber Güvenlik Eğitimleri 2022 
 
-PwnLab ekibi olarak 3 gün boyunca sizlere detaylı ve uygulamalı olarak siber güvenlik eğitimleri verdik.
+PwnLab ekibi olarak sizlere OWASP Muğla Ve Dpüsec isimli toplulukların da desteğiyle 3 gün boyunca detaylı ve uygulamalı olarak siber güvenlik eğitimleri verdik.
 
 Bu repo sizlerin eğitimde kullanılan materyallere ve eğitim kayıtlarına erişmeniz amacıyla kurulmuştur. 
 
