@@ -3,6 +3,7 @@
 PwnLab ekibi olarak 3 gün boyunca sizlere detaylı ve uygulamalı olarak siber güvenlik eğitimleri verdik.
 
 Bu repo sizlerin eğitimde kullanılan materyallere erişmeniz amacıyla kurulmuştur. 
+-----
 
 Windows Zararlı Yazılım Analizi / M. Akıl Gündoğan
 
@@ -18,30 +19,42 @@ Slayt Dosyası: [Bug Bounty Sektörü Ve Metadolojisi](https://github.com/PwnLab
 
 -----
 
-Burp Suite nedir? Nasıl Kullanılır? / Hüseyin Can Taşdemir
-Slayt dosyasi asd
-Video asd
-
 Security Of Developpers / Faruk Ulutaş
-Slayt dosyasi asd
+Slayt Dosyası: [Security Of Developpers](https://github.com/PwnLabMe-Project/Siber-Guvenlik-Egitimleri-2022/blob/9b919225110397417f1adc60ed919acba4de40de/Sunumlar/Security%20for%20Developers.pdf)
 Video: https://youtu.be/PUoQwnnZJ2M
 
+-----
+
 Web Socket Zaafiyetleri / Kaan Bıçaklar
-Slayt dosyasi asd
 Video: https://youtu.be/QWbnaRfOLx8
 
+-----
+
 Siber Tehdit İstihbaratı / Yusuf Can Çakır - Furkan Öztürk
-Slayt dosyasi asd
+Slayt Dosyası: [Siber Tehdit İstihbaratı](https://github.com/PwnLabMe-Project/Siber-Guvenlik-Egitimleri-2022/blob/9b919225110397417f1adc60ed919acba4de40de/Sunumlar/Siber%20Tehdit%20%C4%B0stihbarat%C4%B1.pptx)
 Video: https://youtu.be/r8UowEI7-PM
 
+-----
+
 Anti Analiz Teknikleri / Kaan Kozan
-Slayt dosyasu asd
+Slayt Dosyası: [Anti Analiz Teknikleri](https://github.com/PwnLabMe-Project/Siber-Guvenlik-Egitimleri-2022/blob/9b919225110397417f1adc60ed919acba4de40de/Sunumlar/Anti%20Analiz%20Teknikleri.pptx)
 Video: https://youtu.be/ZP_0AEQAdgY
 
+-----
+
 Golang For Hackers - Basic Tool Write / Resul Bozburun
-Slayt dosyasi
-Video
+Slayt Dosyası: [Golang For Hackers](https://github.com/PwnLabMe-Project/Siber-Guvenlik-Egitimleri-2022/blob/9b919225110397417f1adc60ed919acba4de40de/Sunumlar/Gokit%20-%20Automated%20Web%20Application%20Penetration%20Testing.pptx)
+
+-----
 
 Smart Contract Saldırıları Ve Önleme Yöntemleri / Deniz Baş
 Slayt dosyasi
 Video: https://youtu.be/qXB3uwRb5ec
+
+
+
+
+
+Burp Suite nedir? Nasıl Kullanılır? / Hüseyin Can Taşdemir
+Slayt dosyasi yok
+Video yok
