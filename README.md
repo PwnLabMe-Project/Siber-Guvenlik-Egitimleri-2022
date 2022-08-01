@@ -5,8 +5,10 @@ PwnLab ekibi olarak 3 gün boyunca sizlere detaylı ve uygulamalı olarak siber 
 Bu repo sizlerin eğitimde kullanılan materyallere erişmeniz amacıyla kurulmuştur. 
 
 Windows Zararlı Yazılım Analizi / M. Akıl Gündoğan
+
 Slayt Dosyası: https://github.com/PwnLabMe-Project/Siber-Guvenlik-Egitimleri-2022/blob/678150b4a06203fb4ed61e7349150093b4a4912f/Sunumlar/Temel%20Windows%20Zararl%C4%B1%20Yaz%C4%B1l%C4%B1m%20Analizi.pptx
-Video:
+
+Video: https://youtu.be/fYvvCtNVobQ
 
 Bug Bounty Sektörü Ve Metadolojisi / Ekin Şiar Bayer
 Slayt Dosyası asd
