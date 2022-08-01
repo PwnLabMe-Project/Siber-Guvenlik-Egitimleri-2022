@@ -10,11 +10,13 @@ Slayt Dosyası: [Windows Zararlı Yazılım Analizi](https://github.com/PwnLabMe
 
 Video: https://youtu.be/fYvvCtNVobQ
 
+-----
 
 Bug Bounty Sektörü Ve Metadolojisi / Ekin Şiar Bayer
 
 Slayt Dosyası: [Bug Bounty Sektörü Ve Metadolojisi](https://github.com/PwnLabMe-Project/Siber-Guvenlik-Egitimleri-2022/blob/a4db0900ba7d572861c344026adb92374d4db4a0/Sunumlar/Bug%20Bounty%20Sekt%C3%B6r%C3%BC%20ve%20Metodolojisi.odp)
 
+-----
 
 Burp Suite nedir? Nasıl Kullanılır? / Hüseyin Can Taşdemir
 Slayt dosyasi asd
