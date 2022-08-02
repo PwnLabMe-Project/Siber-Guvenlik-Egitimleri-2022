@@ -16,7 +16,7 @@
 
 - [Telegram](https://t.me/CyberSec_TR)
 
-- [Discord](https://discord.gg/GYzrXcGTbr)
+- [Discord](https://discord.gg/pwnlabme)
 # Siber Güvenlik Eğitimleri 2022 
 
 PwnLab ekibi olarak sizlere OWASP Muğla Ve Dpüsec isimli toplulukların da desteğiyle 3 gün boyunca detaylı ve uygulamalı olarak siber güvenlik eğitimleri verdik.
