@@ -39,9 +39,9 @@ Slayt Dosyası: [Bug Bounty Sektörü Ve Metadolojisi](https://github.com/PwnLab
 
 -----
 
-Security Of Developers / Faruk Ulutaş
+Security for Developers / Faruk Ulutaş
 
-Slayt Dosyası: [Security Of Developers](https://github.com/PwnLabMe-Project/Siber-Guvenlik-Egitimleri-2022/blob/9b919225110397417f1adc60ed919acba4de40de/Sunumlar/Security%20for%20Developers.pdf)
+Slayt Dosyası: [Security for Developers](https://github.com/PwnLabMe-Project/Siber-Guvenlik-Egitimleri-2022/blob/9b919225110397417f1adc60ed919acba4de40de/Sunumlar/Security%20for%20Developers.pdf)
 
 Eğitim Kaydı: https://youtu.be/PUoQwnnZJ2M
 
